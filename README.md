@@ -9,7 +9,7 @@ For each bus, it generates a marker on the map at the position of the bus via th
 To run, download all files into the same directory, and open the Bus Tracker.HTML file in your browser.
 
 **Roadmap of future improvements**: <br> 
-Future improvements include updated icons that change dependent on wether bus is stationary or in motion.
+Future improvements include updated icons that change dependent on whether bus is stationary or in motion.
 
 **License information**: <br>
 MIT License
