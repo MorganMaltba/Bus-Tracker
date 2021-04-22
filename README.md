@@ -2,7 +2,7 @@
 ### [Tracks buses in real-time using MBTA data!](https://github.com/MorganMaltba/Bus-Tracker)
 
 **Description**: <br>
-This project imports data from https://api-v3.mbta.com/vehicles?filter[route]=1&include=trip.<br>
+This project imports data from [MBTA](https://api-v3.mbta.com/vehicles?filter[route]=1&include=trip).<br>
 For each bus, it generates a marker on the map at the position of the bus via the longitude and latitude provided by the data.
 
 **How to Run**: <br>
