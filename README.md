@@ -1,5 +1,5 @@
 # Bus-Tracker
-### [Tracks buses in real-time using MBTA data!](https://github.com/MorganMaltba/Bus-Tracker)
+### Tracks buses in real-time using MBTA data!
 
 **Description**: <br>
 This project imports data from [MBTA](https://api-v3.mbta.com/vehicles?filter[route]=1&include=trip).<br>
